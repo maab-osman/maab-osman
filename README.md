@@ -3,7 +3,6 @@
 🎯 **Aspiring Backend Developer** | 💡 Passionate about building scalable and secure systems  
 
 🌱 Currently learning **AWS, JavaScript, and Linux**  
-☁️ My goal: become a **Cloud Specialist** by 2027  
 💬 Ask me about **APIs, automation, and web development**  
 📫 Reach me: [LinkedIn](your-linkedin-url) | [Email](mailto:your@email.com)
 
