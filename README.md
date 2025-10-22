@@ -1,39 +1,46 @@
-<h2 align="center">🌷 Hi there, I'm Maab 👋</h2>
+<!--
+  Hey there, I'm Maab Osman 🌸
+  Welcome to my GitHub profile! I’m glad you’re here ✨
+  Feel free to explore — and if something inspires you, drop a star ⭐
+  You can also connect with me on LinkedIn @maab-osman ☁️
+-->
 
-<p align="center">
-  <em>Aspiring <strong>Backend & Cloud Developer</strong> who loves building smooth, scalable systems ☁️</em>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=EAD7D1&height=120&section=header" alt="header"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=500&size=25&duration=4000&pause=500&color=EAD7D1&width=435&lines=Hey%2C+I'm+Maab.;Software+Development+Student;Building+with+Java%2C+Spring+%26+React" alt="Typing Intro"/>
+</a>
+
+---
+![terminal](https://github.com/user-attachments/assets/86d10dde-bd32-4b9d-ae30-13b3972a288b)
 
 ---
 
-### 🧁 About Me  
-💻 I’m currently learning **AWS, JavaScript, and Linux**  
-⚙️ Passionate about **automation, APIs, and backend logic**  
-🌿 I enjoy clean design, elegant code, and quiet productivity playlists  
-📫 Reach me on [LinkedIn](your-linkedin-url) or [Email](mailto:your@email.com)
+#### Main Skills
+[![Skills](https://skillicons.dev/icons?i=java,js,html,css,mysql,git,vscode&theme=light)](https://skillicons.dev)
 
----
 
-### 🌸 Tech Stack  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" title="HTML5"/>
-  <span>HTML5</span>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" title="CSS3"/>
-  <span>CSS3</span>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" title="JavaScript"/>
-  <span>JavaScript</span>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" title="Linux"/>
-  <span>Linux</span>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" title="Git"/>
-  <span>Git</span>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="45" title="AWS"/>
-  <span>AWS</span>
-</p>
+#### Learning
+[![Learning](https://skillicons.dev/icons?i=spring,react,aws,linux,python,docker&theme=light)](https://skillicons.dev)
+
 
 ---
 
 
-<p align="center">
-  ✨ <em>"Code softly, dream boldly, and keep learning — every bug brings you closer to brilliance."</em> ✨  
-</p>
+### 💌 Connect with Me
+<div>
+  <a href="https://www.linkedin.com/in/your-linkedin/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="35" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/YourGitHubUsername">
+    <img src="https://skillicons.dev/icons?i=github" width="35" alt="GitHub"/>
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-EAD7D1?style=for-the-badge&logo=gmail&logoColor=white" height="28"/>
+  </a>
+</div>
+
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=EAD7D1&height=120&section=footer" alt="footer"/>
 
