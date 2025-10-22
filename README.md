@@ -29,13 +29,10 @@
 
 ### 💌 Connect with Me
 <div>
-  <a href="https://www.linkedin.com/in/your-linkedin/">
+  <a href="www.linkedin.com/in/maab-o-528170334">
     <img src="https://skillicons.dev/icons?i=linkedin" width="35" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/YourGitHubUsername">
-    <img src="https://skillicons.dev/icons?i=github" width="35" alt="GitHub"/>
-  </a>
-  <a href="mailto:your@email.com">
+  <a href="maab.osman@myy.haaga-helia.fi">
     <img src="https://img.shields.io/badge/Email-EAD7D1?style=for-the-badge&logo=gmail&logoColor=white" height="28"/>
   </a>
 </div>
