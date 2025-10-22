@@ -12,9 +12,11 @@
 </a>
 
 ---
-![terminal](https://github.com/user-attachments/assets/86d10dde-bd32-4b9d-ae30-13b3972a288b)
+
+![terminal (1)](https://github.com/user-attachments/assets/04ea0b31-84c1-43c8-95f8-5539288df26d)
 
 ---
+
 
 #### Main Skills
 [![Skills](https://skillicons.dev/icons?i=java,js,html,css,mysql,git,vscode&theme=light)](https://skillicons.dev)
