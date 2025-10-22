@@ -32,13 +32,6 @@
 
 ---
 
-### 🩵 GitHub Highlights  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=rose_pine" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=rose_pine" height="180"/>
-</p>
-
----
 
 <p align="center">
   ✨ <em>"Code softly, dream boldly, and keep learning — every bug brings you closer to brilliance."</em> ✨  
