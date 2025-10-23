@@ -5,15 +5,13 @@
   You can also connect with me on LinkedIn @maab-osman ☁️
 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=EAD7D1&height=120&section=header" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=500&size=25&duration=4000&pause=500&color=EAD7D1&width=435&lines=Hey%2C+I'm+Maab.;Software+Development+Student;Building+with+Java%2C+Spring+%26+React" alt="Typing Intro"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=500&size=25&duration=4000&pause=500&color=F4D7E1&width=435&lines=Hey%2C+I'm+Maab.;Software+Development+Student;Building+with+Java%2C+Spring+%26+React" alt="Typing Intro"/>
 </a>
 
----
+![terminal (2)](https://github.com/user-attachments/assets/511eb6f3-0e10-4d36-9c3b-adc8b73a1ade)
 
-![terminal (1)](https://github.com/user-attachments/assets/04ea0b31-84c1-43c8-95f8-5539288df26d)
 
 ---
 
@@ -35,11 +33,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" width="35" alt="LinkedIn"/>
   </a>
   <a href="maab.osman@myy.haaga-helia.fi">
-    <img src="https://img.shields.io/badge/Email-EAD7D1?style=for-the-badge&logo=gmail&logoColor=white" height="28"/>
+    <img src="https://img.shields.io/badge/Email-F4D7E1?style=for-the-badge&logo=gmail&logoColor=white" height="28"/>
   </a>
 </div>
-
-
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=EAD7D1&height=120&section=footer" alt="footer"/>
 
