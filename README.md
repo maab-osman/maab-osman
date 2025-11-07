@@ -13,16 +13,4 @@
 ![terminal (2)](https://github.com/user-attachments/assets/511eb6f3-0e10-4d36-9c3b-adc8b73a1ade)
 
 
----
-
-
-### 💌 Connect with Me
-<div>
-  <a href="www.linkedin.com/in/maab-o-528170334">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="35" alt="LinkedIn"/>
-  </a>
-  <a href="maab.osman@myy.haaga-helia.fi">
-    <img src="https://img.shields.io/badge/Email-F4D7E1?style=for-the-badge&logo=gmail&logoColor=white" height="28"/>
-  </a>
-</div>
 
