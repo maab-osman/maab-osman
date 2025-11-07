@@ -16,17 +16,6 @@
 ---
 
 
-#### Main Skills
-[![Skills](https://skillicons.dev/icons?i=java,js,html,css,mysql,git,vscode&theme=light)](https://skillicons.dev)
-
-
-#### Learning
-[![Learning](https://skillicons.dev/icons?i=spring,react,aws,linux,python,docker&theme=light)](https://skillicons.dev)
-
-
----
-
-
 ### 💌 Connect with Me
 <div>
   <a href="www.linkedin.com/in/maab-o-528170334">
